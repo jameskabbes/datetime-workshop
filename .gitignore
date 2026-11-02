@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+.vscode/*.log
